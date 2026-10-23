@@ -20,6 +20,7 @@ I am a Full-Stack Web Developer focused on building clean, functional, and scala
 ### 📊 GitHub Metrics
 
 <p align="left">
+  <!-- Using the updated stable community fork domain -->
   <img src="https://vercel.app" alt="Asma's GitHub Stats" />
 </p>
 <p align="left">

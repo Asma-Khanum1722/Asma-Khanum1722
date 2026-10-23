@@ -6,20 +6,28 @@ I am a Full-Stack Web Developer focused on building clean, functional, and scala
 
 ### 🛠️ My Tech Stack
 
-<!-- Replace or add to these badges based on your actual skills. They use Shields.io and DevIcon icons -->
-![React](https://shields.io) ![TypeScript](https://shields.io) ![NodeJS](https://shields.io) ![JavaScript](https://shields.io) ![HTML5](https://shields.io) ![CSS3](https://shields.io)
+<p align="left">
+  <img src="https://shields.io" alt="React" />
+  <img src="https://shields.io" alt="TypeScript" />
+  <img src="https://shields.io" alt="NodeJS" />
+  <img src="https://shields.io" alt="JavaScript" />
+  <img src="https://shields.io" alt="HTML5" />
+  <img src="https://shields.io" alt="CSS3" />
+</p>
 
 ---
 
 ### 📊 GitHub Metrics
 
 <p align="left">
-<img src="https://vercel.app" alt="Asma's GitHub Stats" height="180px"/>
-<img src="https://vercel.app" alt="Top Languages" height="180px"/>
+  <img src="https://vercel.app" alt="Asma's GitHub Stats" />
+</p>
+<p align="left">
+  <img src="https://vercel.app" alt="Top Languages" />
 </p>
 
 ---
 
 ### 🔗 Let's Connect!
-* **Portfolio:** [asma-khanum-portfolio.vercel.app](https://asma-khanum-portfolio.vercel.app/)
-* **LinkedIn:** [://linkedin.com](https://://linkedin.com)
+* 🌐 **Portfolio:** [asma-khanum-portfolio.vercel.app](https://asma-khanum-portfolio.vercel.app/)
+* 💼 **LinkedIn:** [://linkedin.com](https://www.://linkedin.com)

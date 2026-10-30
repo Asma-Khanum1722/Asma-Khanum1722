@@ -1,110 +1,113 @@
 <div align="center">
 
-# 📰 Authentic Media Wire
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:60a5fa&height=220&section=header&text=Asma%20Khanum&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Full-stack%20developer%20%E2%80%A2%20AI%20%26%20automation&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="header" />
 
-**A fast, multi-region news app built with React + Vite.**
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=2563EB&center=true&vCenter=true&width=640&lines=I+build+things+that+actually+run;Frontend+%E2%80%A2+Backend+%E2%80%A2+AI+%E2%80%A2+Automation;Started+with+HTML%2C+CSS+and+JS.+Still+here." alt="typing" />
+</a>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asma-khanum)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asmakhanum507@gmail.com)
+[![GenFlow](https://img.shields.io/badge/GenFlow_Digital-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://genflowdigital.com)
+
+<img src="https://komarev.com/ghpvc/?username=Asma-Khanum1722&label=Profile+views&color=2563eb&style=flat-square" alt="views" />
 
 </div>
 
 ---
 
-## About
+## 👋 Hey, I'm Asma
 
-Authentic Media Wire (AMW) is a news app for staying up to date with the latest and trending stories, and exploring the ones that matter.
+I'm a full-stack developer from Pakistan. I build the whole thing: the frontend, the API, the automation behind it, and the AI on top.
 
-It's built to feel instant. Pages load from a client-side cache first, then fresh stories update quietly in the background.
+I started with plain HTML, CSS and JavaScript, and I still like understanding what's happening under the hood before reaching for a framework. These days I work mostly with React, Next.js, NestJS and n8n, and I build a lot with LLMs.
 
-## Features
+- 🛠️ I run **[GenFlow Digital](https://genflowdigital.com)**, my AI automation and web studio
+- 🤖 Building **[Contexa](https://contexa-seven.vercel.app)**, an AI chatbot builder that answers from your own documents
+- 🎓 Section Leader at **Stanford Code in Place 2026**, teaching Python to beginners around the world
+- 🏆 **UC Berkeley CALICO '26**: Bronze (Global), Silver (Pakistan)
+- 🎯 BS Computer Science, class of 2026
 
-- 🌍 **Multi-region news**: browse news by region
-- ⚡ **Stale-while-revalidate caching**: cached content shows right away while the latest stories load behind it
-- 🔥 **Trending stories**: see what's being read right now
-- 📱 **Responsive**: works on desktop and mobile
-- 🚀 **Vite-powered**: instant dev server and fast builds
+---
 
-## Tech stack
+## 🧰 Stack
 
-| Layer | Tech |
-|---|---|
-| Frontend | React.js |
-| Build tool | Vite |
-| Styling | CSS |
-| Language | JavaScript |
+<div align="center">
 
-## Getting started
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,nestjs,tailwind,vite,firebase,threejs,vercel,git,github&perline=8" alt="skills" />
 
-### Requirements
+<br/><br/>
 
-Make sure you have these installed:
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![GTM + GA4](https://img.shields.io/badge/GTM_%2B_GA4-246FDB?style=for-the-badge&logo=googletagmanager&logoColor=white)
 
-- [Git](https://git-scm.com/downloads)
-- [Visual Studio Code](https://code.visualstudio.com/)
-- [Node.js](https://nodejs.org/en/download/) (LTS version recommended)
+</div>
 
-### Run it locally
+---
 
-**1. Clone the repository**
+## 🚀 Things I've built
 
-```bash
-git clone https://github.com/Asma-Khanum1722/amw-news-app.git
-cd amw-news-app
-```
+| Project | What it is | Stack |
+|---|---|---|
+| **[Contexa](https://contexa-seven.vercel.app)** | Upload your docs, get a chatbot that answers from them with citations | Next.js, embeddings, vector search |
+| **[GenFlow Digital](https://genflowdigital.com)** | My AI automation and web studio: n8n workflows, fast sites, proper tracking | Next.js, n8n, GTM/GA4 |
+| **[GreenRoute](https://greenroutepk.vercel.app)** | Live bus tracking with no tracking hardware. It runs on the driver's phone | React, Leaflet, Firebase RTDB |
+| **[Gemini Orbit](https://gemini-orbit-pied.vercel.app)** | Hackathon prototype that turns documents into an explorable 3D knowledge map | Gemini API, Three.js, GLSL |
+| **[AMW News](https://github.com/Asma-Khanum1722/amw-news-app)** | Multi-region news app with stale-while-revalidate caching | React, Vite, JavaScript, CSS |
+| **Woodmart** | Full e-commerce store in vanilla JS. No frameworks | JavaScript, HTML, CSS |
 
-**2. Open it in VS Code**
+---
 
-```bash
-code .
-```
-
-Or open VS Code and go to File > Open Folder, then select the cloned folder.
-
-**3. Install dependencies**
-
-```bash
-npm install
-```
-
-**4. Start the development server**
-
-```bash
-npm run dev
-```
-
-Vite will start a local server and show a URL in the terminal, usually:
+## 🌱 The journey
 
 ```text
-http://localhost:5173
+HTML + CSS            →  "wait, I made a page"
++ JavaScript          →  "wait, it does things"
++ React / Next.js     →  real apps
++ NestJS / Firebase   →  real backends
++ n8n                 →  automation
++ LLMs / RAG / Gemini →  AI products
 ```
 
-Open that link in your browser and the app is running.
+Still going.
 
-### Build for production
+---
 
-```bash
-npm run build
-npm run preview
-```
+## ⚡ Right now
 
-## Project structure
+- 🔨 Shipping Contexa and growing GenFlow Digital
+- 🧑‍🏫 Teaching Python to beginners through Code in Place
+- 🎨 Rebuilding my portfolio (it's better than this README, I promise)
 
-```text
-amw-news-app/
-├── public/        # static assets
-├── src/           # components, pages, styles
-├── index.html
-├── package.json
-└── vite.config.js
-```
+---
 
-## Author
+## 📊 GitHub stats
 
-**Asma Khanum**, full-stack developer
+<div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Asma-Khanum1722)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asma-khanum)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:asmakhanum507@gmail.com)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Asma-Khanum1722&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asma-Khanum1722&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="top languages" />
+
+<img src="https://streak-stats.demolab.com?user=Asma-Khanum1722&theme=tokyonight&hide_border=true&background=0d1117" alt="streak" />
+
+</div>
+
+---
+
+## 🤝 Let's talk
+
+I'm always up for chatting about projects, ideas, or dev stuff. If you need automation or a fast website, I'm your person.
+
+📫 **asmakhanum507@gmail.com**
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:60a5fa,100:2563eb&height=100&section=footer" width="100%" alt="footer" />
+
+</div>

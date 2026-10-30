@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:60a5fa&height=220&section=header&text=Asma%20Khanum&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Full-stack%20developer%20%E2%80%A2%20AI%20%26%20automation&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="header" />
+# Asma Khanum
 
-### I build things that actually run.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=520&height=40&lines=I+build+things+that+actually+run;Frontend+%E2%80%A2+Backend+%E2%80%A2+AI+%E2%80%A2+Automation;Started+with+HTML%2C+CSS+and+JS.+Still+here." alt="Asma Khanum, full-stack developer" />
+</a>
 
-Frontend • Backend • AI • Automation
-
-<br/>
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asma-khanum)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asmakhanum507@gmail.com)
@@ -90,9 +90,3 @@ Still going.
 I'm always up for chatting about projects, ideas, or dev stuff. If you need automation or a fast website, I'm your person.
 
 📫 **asmakhanum507@gmail.com**
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:60a5fa,100:2563eb&height=100&section=footer" width="100%" alt="footer" />
-
-</div>
